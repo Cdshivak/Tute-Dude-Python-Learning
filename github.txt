@@ -1,0 +1,16 @@
+Learning Python from tute Dude.
+
+github
+
+git config --global user.name "Cdshivak" #for global config github.
+git config --global user.email "cdshivak@gmail.com" # for global config email id in github.
+
+git config --global color.ui auto
+
+mandatory commands
+>>>git init
+>>> git remote add origin https://github.com/Cdshivak/Tute-Dude-Python-Learning.git
+
+
+git pull origin main
+git 
