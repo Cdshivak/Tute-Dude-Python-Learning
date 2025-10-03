@@ -13,4 +13,16 @@ mandatory commands
 
 
 git pull origin main
-git 
+
+git status
+
+git add . #to add all files in github from vs code
+
+git commit -m "Test Demo push" #to add a message or commit
+git push #to push the code into github from local to online
+
+git checkout -b "Add branch title" #to add a branch in github
+
+git checkout "Branch Name" #to switch between branches or switch
+
+git clone "add url from github to clone the repo"
